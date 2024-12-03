@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "kQCNnhmB4zIpGL7T+UsugQyC2+jeLelf2G3HYaUh5Us=",
+  "Source": "CarLoan.Server",
+  "BasePath": "_content/CarLoan.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\carloan.client\\carloan.client.esproj",
+      "Version": 2,
+      "Source": "carloan.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

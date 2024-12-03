@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CarLoan.Server.props" />
+</Project>
