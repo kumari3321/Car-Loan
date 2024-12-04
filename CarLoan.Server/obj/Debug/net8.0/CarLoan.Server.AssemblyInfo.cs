@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarLoan.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7f24b257678427375cbd10f0dcede56524453ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarLoan.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarLoan.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

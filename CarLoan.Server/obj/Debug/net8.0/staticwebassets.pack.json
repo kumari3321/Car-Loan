@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarLoan.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarLoan.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CarLoan.Server.props",
+      "PackagePath": "build\\CarLoan.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CarLoan.Server.props",
+      "PackagePath": "buildMultiTargeting\\CarLoan.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CarLoan.Server.props",
+      "PackagePath": "buildTransitive\\CarLoan.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

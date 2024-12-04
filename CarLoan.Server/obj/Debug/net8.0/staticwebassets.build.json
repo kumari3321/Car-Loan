@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kQCNnhmB4zIpGL7T+UsugQyC2+jeLelf2G3HYaUh5Us=",
+  "Hash": "t8+QXu1IjF6pPvdk/FT9Ilz6GermRNb4wSqYSczAXlU=",
   "Source": "CarLoan.Server",
   "BasePath": "_content/CarLoan.Server",
   "Mode": "Default",
@@ -18,7 +18,120 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "CarLoan.Server\\wwwroot",
+      "Source": "CarLoan.Server",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vcp4bsk915",
+      "Integrity": "oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4347043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 06:37:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.vcp4bsk915.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4347043"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 03 Dec 2024 06:37:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vcp4bsk915"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8="
+        }
+      ]
+    }
+  ]
 }

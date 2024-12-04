@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile_photos\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>CarLoan.Server</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/CarLoan.Server</BasePath>
+      <RelativePath>uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>vcp4bsk915</Fingerprint>
+      <Integrity>oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\profile_photos\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
