@@ -1,0 +1,82 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    position: sticky;
+  }
+  
+  .LoanAmount {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    width: 100%;
+    max-width: 1000px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 40px;
+    gap: 30px;
+    margin-top: -30px;
+    margin-bottom: -20px;
+  }
+  
+  .input1 {
+    width: 180px;
+    padding: 5px;
+    font-size: 16px;
+    gap: 30px;
+  }
+  
+  .slider {
+    flex-grow: 1;
+    width: 150%;
+    left: -96px;
+  }
+  
+  .chart-container {
+    display: flex;
+    justify-content: right;
+    padding-right: 20px;
+    border-color: blue;
+  }
+  
+  .Monthly {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    width: 100%;
+    max-width: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 40px;
+    gap: 30px;
+    margin-top: -30px;
+    margin-bottom: -20px;
+  }
+  
+  .input-container {
+    border: none;
+  }
+  
+  .buttonC{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+  }
+  .submit {
+    // display: flex;
+    // justify-content: center;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center
+  }
+  
+  .result {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    left: 220px;
+  }
+  

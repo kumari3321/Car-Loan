@@ -32,5 +32,9 @@ public class LoanConfigurationServices : ILoanConfigurationServices
         var response = await _loanConfigurationRepository.CalculateLoanDetails(request);
         return response;
         }
-       
+
+    public async Task<LoanConfiguration> GetLoanConfigurationById(int id)
+    {
+        return await _loanConfigurationRepository.GetLoanConfigurationById(id);
     }
+}

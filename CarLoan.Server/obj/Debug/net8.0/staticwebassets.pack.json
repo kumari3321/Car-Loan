@@ -1,8 +1,80 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
-      "PackagePath": "staticwebassets\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\103ee6bd-6372-4999-8c5e-f8726839b4ad_png",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg",
+      "PackagePath": "staticwebassets\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png",
+      "PackagePath": "staticwebassets\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png",
+      "PackagePath": "staticwebassets\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg",
+      "PackagePath": "staticwebassets\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png",
+      "PackagePath": "staticwebassets\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png",
+      "PackagePath": "staticwebassets\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg",
+      "PackagePath": "staticwebassets\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png",
+      "PackagePath": "staticwebassets\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a274d161-4a68-4d04-b15e-fc111d1c9dd9_png",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png",
+      "PackagePath": "staticwebassets\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png",
+      "PackagePath": "staticwebassets\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png",
+      "PackagePath": "staticwebassets\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dcdc73da-dbbc-4918-846e-9b59d112844f_png",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png",
+      "PackagePath": "staticwebassets\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg",
+      "PackagePath": "staticwebassets\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png",
+      "PackagePath": "staticwebassets\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png"
+    },
+    {
+      "Id": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png",
+      "PackagePath": "staticwebassets\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CarLoan.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

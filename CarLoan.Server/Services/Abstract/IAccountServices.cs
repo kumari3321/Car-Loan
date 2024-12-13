@@ -10,5 +10,8 @@ namespace CarLoan.Server.Services.Abstract
         Task<UserInfo> GetUserInfoByUserName(string username);
         Task<bool> PasswordSignIn(LoginRequests login);
         Task<bool> UpdateClientPanel(UpdateViewModel update, string UserId, int Id);
+        Task<GetUserInfoViewModel> GetUserInfoById(int id);
+        Task<GetUserInfoViewModel> GetUserInfoByUserId(string UserId);
+        Task<List<GetUserInfoViewModel>> GetAllUsers();
     }
 }

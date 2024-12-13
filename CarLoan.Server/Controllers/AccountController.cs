@@ -10,9 +10,11 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Microsoft.AspNetCore.Authorization;
 
 namespace CarLoan.Server.Controllers
 {
+   // [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AccountController : ControllerBase
@@ -94,7 +96,7 @@ namespace CarLoan.Server.Controllers
                     User = new
                     {
                         user.Id,
-                        user.UserName,
+                        //user.UserName,
                         user.Email,
                         Roles = roles,
                         Token = token
@@ -171,7 +173,7 @@ namespace CarLoan.Server.Controllers
             }
         }
         [HttpPut("~/api/User-Update")]
-        public async Task<IActionResult> UpdateClientPanel([FromForm] UpdateViewModel update)
+        public async Task<IActionResult> UpdateClientPanel([FromBody] UpdateViewModel update)
         {
             var aspNetUser = _userManager.GetUserId(User);
 
@@ -200,6 +202,51 @@ namespace CarLoan.Server.Controllers
                     Error = ex.Message
                 });
             }
+        }
+
+
+        [HttpGet("~api/userInfoById")]
+        public async Task<IActionResult> GetUserInfoById(int id)
+        {
+            var userInfo = await _accountService.GetUserInfoById(id);
+
+            if (userInfo == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(userInfo);
+        }
+
+
+        [HttpGet("~api/loginUserInfoByUserId")]
+        public async Task<IActionResult> GetUserInfoByUserId(string UserId)
+        {
+            var userInfo = await _accountService.GetUserInfoByUserId(UserId);
+
+            if (userInfo == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(userInfo);
+        }
+
+
+
+
+
+        [HttpGet("all")]
+        public async Task<IActionResult> GetAllUsers()
+        {
+            var users = await _accountService.GetAllUsers();
+
+            if (users == null)
+            {
+                return NotFound();
+            }
+
+            return Ok(users);
         }
     }
 }

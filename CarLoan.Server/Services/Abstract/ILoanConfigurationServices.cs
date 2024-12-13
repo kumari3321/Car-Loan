@@ -17,6 +17,7 @@ using CarLoan.Server.ViewModel;
 public interface ILoanConfigurationServices
 {
     Task<LoanConfiguration> GetLoanConfigurationAsync();
+    Task<LoanConfiguration> GetLoanConfigurationById(int id);
     Task<LoanConfiguration> UpdateLoanConfigurationAsync(LoanConfigurationViewModel configuration);
     Task InitializeDefaultLoanConfigurationAsync();
     Task<LoanCalculationResponse> CalculateLoanDetails(LoanCalculator request);

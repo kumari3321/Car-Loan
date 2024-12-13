@@ -136,13 +136,14 @@ namespace CarLoan.Server.Repository.Concrete
             if (clientInfo != null)
             {
                 clientInfo.UserName = update?.UserName;
-
+               // clientInfo.AspNetUserId = update?.UserId;
                 clientInfo.AspNetUser.Email = update?.Email;
                 clientInfo.AspNetUser.NormalizedEmail = update.Email.ToUpper();
                 clientInfo.AspNetUser.NormalizedUserName = update?.Email.ToUpper();
                 clientInfo.AspNetUser.UserName = update?.Email;
                 clientInfo.AspNetUser.PhoneNumber = update?.PhoneNumber;
                 clientInfo.Address = update?.Address;
+                clientInfo.ProfilePhoto = update?.ProfilePhoto;
                 clientInfo.ModifiedUserId = UserId;
                 clientInfo.ModifiedDate = DateTime.UtcNow;
 
@@ -153,6 +154,87 @@ namespace CarLoan.Server.Repository.Concrete
             return true;
         }
 
-      
+        public async Task<GetUserInfoViewModel> GetUserInfoById(int id )
+        {
+            var res = await _context.Users
+                                    .Include(b => b.AspNetUser)
+                                    .FirstOrDefaultAsync(a => a.Id == id);
+
+            if (res == null)
+            {
+                return null;
+            }
+            var Info = new GetUserInfoViewModel
+            {
+                Id=res.Id,
+                UserId=res.AspNetUserId,
+                UserName = res.UserName,
+                Address = res.Address,
+                PhoneNumber = res.AspNetUser?.PhoneNumber,
+                Email = res.AspNetUser?.Email,
+                ProfilePhoto=res.ProfilePhoto
+            };
+
+            return Info;
+        }
+
+
+        public async Task<GetUserInfoViewModel> GetUserInfoByUserId(string UserId)
+        {
+            var res = await _context.Users
+                                    .Include(b => b.AspNetUser)
+                                    .FirstOrDefaultAsync(a => a.AspNetUserId == UserId);
+
+            if (res == null)
+            {
+                return null;
+            }
+            var Info = new GetUserInfoViewModel
+            {
+                Id = res.Id,
+                UserId = res.AspNetUserId,
+                UserName = res.UserName,
+                Address = res.Address,
+                PhoneNumber = res.AspNetUser?.PhoneNumber,
+                Email = res.AspNetUser?.Email,
+                ProfilePhoto = res.ProfilePhoto
+            };
+
+            return Info;
+        }
+
+
+
+
+
+
+
+        public async Task<List<GetUserInfoViewModel>> GetAllUsers()
+        {
+            var users = await _context.Users
+                                      .Include(b => b.AspNetUser)
+                                      .ToListAsync();
+
+           
+            var userInfoList = new List<GetUserInfoViewModel>();
+            foreach (var user in users)
+            {
+                userInfoList.Add(new GetUserInfoViewModel
+                {
+                    Id = user.Id,
+                    UserName = user.UserName,
+                    Address = user.Address,
+                    PhoneNumber = user.AspNetUser?.PhoneNumber,
+                    Email = user.AspNetUser?.Email,
+                    ProfilePhoto=user.ProfilePhoto,
+
+                });
+            }
+
+            return userInfoList;
+        }
+
+
     }
 }
+

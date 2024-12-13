@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t8+QXu1IjF6pPvdk/FT9Ilz6GermRNb4wSqYSczAXlU=",
+  "Hash": "YCpdoWbrc/PpAFRAVNE8/cINc9Mr+UwB34arPlyc7E0=",
   "Source": "CarLoan.Server",
   "BasePath": "_content/CarLoan.Server",
   "Mode": "Default",
@@ -29,12 +29,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\103ee6bd-6372-4999-8c5e-f8726839b4ad_png",
       "SourceId": "CarLoan.Server",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
       "BasePath": "_content/CarLoan.Server",
-      "RelativePath": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767#[.{fingerprint}]?.jpg",
+      "RelativePath": "Images/103ee6bd-6372-4999-8c5e-f8726839b4ad_png#[.{fingerprint}]?",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -43,17 +43,395 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vcp4bsk915",
-      "Integrity": "oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\103ee6bd-6372-4999-8c5e-f8726839b4ad_png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4nb5llx3k5",
+      "Integrity": "0Lx+RmdZrGftWWadX8voEEB0qi0g0pADf2MynLfFg14=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/501a4ac4-51ac-4b9f-9465-e894beab19b5_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/5c1c0549-2dfd-488e-970c-10c0d8e47245_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zke6ak48se",
+      "Integrity": "U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/5d19cb4a-10a0-486d-aaba-04fff3fe5db2_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/6466c4a2-2173-4db6-adac-ff8ec820497f_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/73623eeb-4e48-404d-81db-d8ecc47f89b0_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/93755e79-456b-4431-828f-14ef7a98e733_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/a16e619e-26f6-4a78-97d6-cb1b58b4efef_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a274d161-4a68-4d04-b15e-fc111d1c9dd9_png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/a274d161-4a68-4d04-b15e-fc111d1c9dd9_png#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\a274d161-4a68-4d04-b15e-fc111d1c9dd9_png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/c34e837e-9669-4b31-9dc8-a9c6e5b5a213_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/d8c21c49-0f9b-4bb4-b9be-085f37bcc745_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zke6ak48se",
+      "Integrity": "U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zke6ak48se",
+      "Integrity": "U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dcdc73da-dbbc-4918-846e-9b59d112844f_png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/dcdc73da-dbbc-4918-846e-9b59d112844f_png#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\dcdc73da-dbbc-4918-846e-9b59d112844f_png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/def315d2-7573-466a-86ab-b149899420a0_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ci0unvbe0s",
+      "Integrity": "FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2d6hvfksu",
+      "Integrity": "Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/f33cb3fc-6a51-42df-973c-53f97b6cd369_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zke6ak48se",
+      "Integrity": "U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png",
+      "SourceId": "CarLoan.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\",
+      "BasePath": "_content/CarLoan.Server",
+      "RelativePath": "Images/fea54b40-b022-4ec7-a166-9d6ea16a1c2b_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zke6ak48se",
+      "Integrity": "U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png"
     }
   ],
   "Endpoints": [
     {
-      "Route": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
-      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "Route": "Images/103ee6bd-6372-4999-8c5e-f8726839b4ad_png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\103ee6bd-6372-4999-8c5e-f8726839b4ad_png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,35 +440,35 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4347043"
+          "Value": "53125"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=\""
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 06:37:33 GMT"
+          "Value": "Fri, 13 Dec 2024 08:30:37 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8="
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
         }
       ]
     },
     {
-      "Route": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.vcp4bsk915.jpg",
-      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\uploads\\profile_photos\\297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg",
+      "Route": "Images/103ee6bd-6372-4999-8c5e-f8726839b4ad_png.n2d6hvfksu",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\103ee6bd-6372-4999-8c5e-f8726839b4ad_png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,19 +477,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4347043"
+          "Value": "53125"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8=\""
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 06:37:33 GMT"
+          "Value": "Fri, 13 Dec 2024 08:30:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -121,15 +499,1491 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vcp4bsk915"
+          "Value": "n2d6hvfksu"
         },
         {
           "Name": "label",
-          "Value": "uploads/profile_photos/297e3f9d-5c4b-4510-92fb-348d7c2bb120_pexels-christina99999-29239767.jpg"
+          "Value": "Images/103ee6bd-6372-4999-8c5e-f8726839b4ad_png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oUuWEJtBvRmO+T9puW6dzhhcyGqWtxuGCZR47jnPLa8="
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:28:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png.n2d6hvfksu",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:28:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/22f6c8a1-7728-4e51-a0ef-7f2c83534b98_png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.4nb5llx3k5.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Lx+RmdZrGftWWadX8voEEB0qi0g0pADf2MynLfFg14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4nb5llx3k5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Lx+RmdZrGftWWadX8voEEB0qi0g0pADf2MynLfFg14="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\2eb8934b-3c06-4a3b-a966-9ff8b5c7a949_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0Lx+RmdZrGftWWadX8voEEB0qi0g0pADf2MynLfFg14=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:11:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0Lx+RmdZrGftWWadX8voEEB0qi0g0pADf2MynLfFg14="
+        }
+      ]
+    },
+    {
+      "Route": "Images/501a4ac4-51ac-4b9f-9465-e894beab19b5_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/501a4ac4-51ac-4b9f-9465-e894beab19b5_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/501a4ac4-51ac-4b9f-9465-e894beab19b5_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\501a4ac4-51ac-4b9f-9465-e894beab19b5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5c1c0549-2dfd-488e-970c-10c0d8e47245_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 06:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5c1c0549-2dfd-488e-970c-10c0d8e47245_.zke6ak48se.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5c1c0549-2dfd-488e-970c-10c0d8e47245_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 06:02:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zke6ak48se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/5c1c0549-2dfd-488e-970c-10c0d8e47245_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:59:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.n2d6hvfksu.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 17:59:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/5d19cb4a-10a0-486d-aaba-04fff3fe5db2_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6466c4a2-2173-4db6-adac-ff8ec820497f_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/6466c4a2-2173-4db6-adac-ff8ec820497f_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6466c4a2-2173-4db6-adac-ff8ec820497f_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\6466c4a2-2173-4db6-adac-ff8ec820497f_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:49:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/73623eeb-4e48-404d-81db-d8ecc47f89b0_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:52:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/73623eeb-4e48-404d-81db-d8ecc47f89b0_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/73623eeb-4e48-404d-81db-d8ecc47f89b0_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\73623eeb-4e48-404d-81db-d8ecc47f89b0_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 05:52:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/93755e79-456b-4431-828f-14ef7a98e733_.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/93755e79-456b-4431-828f-14ef7a98e733_.n2d6hvfksu.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\93755e79-456b-4431-828f-14ef7a98e733_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/93755e79-456b-4431-828f-14ef7a98e733_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a16e619e-26f6-4a78-97d6-cb1b58b4efef_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 10:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a16e619e-26f6-4a78-97d6-cb1b58b4efef_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 10:41:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a274d161-4a68-4d04-b15e-fc111d1c9dd9_png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a274d161-4a68-4d04-b15e-fc111d1c9dd9_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:31:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/a274d161-4a68-4d04-b15e-fc111d1c9dd9_png.n2d6hvfksu",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\a274d161-4a68-4d04-b15e-fc111d1c9dd9_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:31:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/a274d161-4a68-4d04-b15e-fc111d1c9dd9_png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 06:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\c34e837e-9669-4b31-9dc8-a9c6e5b5a213_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 06:00:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:39:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.zke6ak48se.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:39:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zke6ak48se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/d8c21c49-0f9b-4bb4-b9be-085f37bcc745_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 10:01:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.zke6ak48se.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 10:01:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zke6ak48se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/dc08dd5a-4f7d-4f2f-94c9-510dbff904c2_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/dcdc73da-dbbc-4918-846e-9b59d112844f_png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dcdc73da-dbbc-4918-846e-9b59d112844f_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/dcdc73da-dbbc-4918-846e-9b59d112844f_png.n2d6hvfksu",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\dcdc73da-dbbc-4918-846e-9b59d112844f_png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 08:21:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/dcdc73da-dbbc-4918-846e-9b59d112844f_png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/def315d2-7573-466a-86ab-b149899420a0_.ci0unvbe0s.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ci0unvbe0s"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/def315d2-7573-466a-86ab-b149899420a0_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/def315d2-7573-466a-86ab-b149899420a0_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\def315d2-7573-466a-86ab-b149899420a0_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5080"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:18:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FOGZFIJ2yadAxbcFschAd1e4ZwgdcSVX691XBPqEk1Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:11:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.n2d6hvfksu.jpg",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 18:11:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2d6hvfksu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/edfcbf3d-8ac3-4e90-8f7c-fad7c102478d_.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Uft6/JLeuLvY2Gw2JvjSKzNW5RULYakuMPyWaO6nnmo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f33cb3fc-6a51-42df-973c-53f97b6cd369_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f33cb3fc-6a51-42df-973c-53f97b6cd369_.zke6ak48se.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\f33cb3fc-6a51-42df-973c-53f97b6cd369_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Dec 2024 13:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zke6ak48se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f33cb3fc-6a51-42df-973c-53f97b6cd369_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 10:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.zke6ak48se.png",
+      "AssetFile": "C:\\Users\\Sushma\\Downloads\\TestProject\\TestProject\\CarLoan\\CarLoan.Server\\wwwroot\\Images\\fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4753"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 13 Dec 2024 10:00:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zke6ak48se"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/fea54b40-b022-4ec7-a166-9d6ea16a1c2b_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U+l7Ie34BsFVGeGrPzHeUV61/jJyQl5uNw6ipupv9lA="
         }
       ]
     }

@@ -1,0 +1,67 @@
+// LoanCalculatorPage.scss
+
+$primary-color: #0088fe;
+$secondary-color: #82ca9d;
+
+.h1 {
+  text-align: center;
+  color: $primary-color;
+  margin-bottom: 20px;
+}
+
+.LoanAmount {
+  margin-bottom: 20px;
+
+  .input-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    .input1 {
+      flex: 1;
+    }
+
+    .slider {
+      flex: 2;
+    }
+  }
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+
+  .submit {
+    background-color: $primary-color;
+    border: none;
+
+    &:hover {
+      background-color: darken($primary-color, 10%);
+    }
+  }
+}
+
+.result {
+  margin-top: 30px;
+  text-align: center;
+
+  p {
+    font-size: 1.2rem;
+    margin: 10px 0;
+
+    strong {
+      color: $secondary-color;
+    }
+  }
+}
+
+.chart-container {
+  margin-top: 40px;
+  text-align: center;
+
+  h2 {
+    color: $primary-color;
+    margin-bottom: 20px;
+  }
+}

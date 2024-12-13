@@ -2,6 +2,7 @@
 
 using CarLoan.Server.Models;
 using CarLoan.Server.ViewModel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]
@@ -14,12 +15,11 @@ public class LoanConfigurationsController : ControllerBase
     {
         _loanConfigurationService = loanConfigurationService;
     }
-
+    [Authorize]
     [HttpGet]
     [Route("GetLoanConfiguration")]
     public async Task<IActionResult> GetLoanConfiguration()
     {
-        // Ensure default data is initialized if not already present
         await _loanConfigurationService.InitializeDefaultLoanConfigurationAsync();
 
         var loanConfig = await _loanConfigurationService.GetLoanConfigurationAsync();
@@ -30,9 +30,26 @@ public class LoanConfigurationsController : ControllerBase
         return Ok(loanConfig);
     }
 
+    [Authorize]
+    [HttpGet]
+    [Route("GetLoanConfigurationById")]
+    public async Task<IActionResult> GetLoanConfigurationById(int id)
+    {
+        await _loanConfigurationService.InitializeDefaultLoanConfigurationAsync();
+
+        var loanConfig = await _loanConfigurationService.GetLoanConfigurationById(id);
+        if (loanConfig == null)
+        {
+            return NotFound();
+        }
+        return Ok(loanConfig);
+    }
+
+    [Authorize]
     [HttpPut]
     [Route("UpdateLoanConfiguration")]
     public async Task<IActionResult> UpdateLoanConfiguration([FromBody] LoanConfigurationViewModel configuration)
+    
     {
         if (configuration == null || configuration.Id <= 0)
         {
@@ -59,13 +76,11 @@ public class LoanConfigurationsController : ControllerBase
 
         try
         {
-            // Call the service to calculate the loan details
             var result = await _loanConfigurationService.CalculateLoanDetails(request);
             return Ok(result);
         }
         catch (Exception ex)
         {
-            // Log exception if needed (logging setup required)
             return StatusCode(500, $"Internal server error: {ex.Message}");
         }
     }
