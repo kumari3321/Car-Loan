@@ -234,6 +234,19 @@ namespace CarLoan.Server.Repository.Concrete
             return userInfoList;
         }
 
+        public async Task SignOut()
+        {
+            try
+            {
+                await _signInManager.SignOutAsync();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+
 
     }
 }

@@ -13,5 +13,6 @@ namespace CarLoan.Server.Services.Abstract
         Task<GetUserInfoViewModel> GetUserInfoById(int id);
         Task<GetUserInfoViewModel> GetUserInfoByUserId(string UserId);
         Task<List<GetUserInfoViewModel>> GetAllUsers();
+        Task SignOut();
     }
 }

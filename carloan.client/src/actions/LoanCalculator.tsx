@@ -22,7 +22,7 @@ export function UpdateAdminValue(payload:any ){
 }
 export async function AddUsers(payload:any){
     console.log(payload,"register");
-    return await axiosInstance.post(`${baseUrl}`+"auth/register",payload);
+    return  axios.post(`${baseUrl}`+"auth/register",payload);
     //console.log(data)
   //  return data;
 
@@ -42,3 +42,6 @@ export function GetUserById(id:any){
 export function GetUserByUserId(UserId:any){
     return axiosInstance.get(`${baseUrl}`+"Account/~api/loginUserInfoByUserId?UserId="+UserId);
 }
+export function signOut() {
+    return axios.post("SignOut");
+  }

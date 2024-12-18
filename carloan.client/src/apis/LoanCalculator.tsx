@@ -1,5 +1,5 @@
 
-import { AddLoanCalulator, AddUsers, GetAllUsers, GetLoanMaxMin, GetLoanMaxMinById, GetUserById, GetUserByUserId, LoginUser, UpdateAdminValue, UpdateUsers } from "../actions/LoanCalculator";
+import { AddLoanCalulator, AddUsers, GetAllUsers, GetLoanMaxMin, GetLoanMaxMinById, GetUserById, GetUserByUserId, LoginUser, signOut, UpdateAdminValue, UpdateUsers } from "../actions/LoanCalculator";
 
 export function addLoanCalculator(payload:any){
     return AddLoanCalulator(payload);
@@ -39,3 +39,6 @@ export function getUserById(id:any){
 export function getUserByUserId(id:any){
     return GetUserByUserId(id);
 }
+export const signOutUser: any = function () {
+    return signOut();
+  }; 

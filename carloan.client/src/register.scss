@@ -1,4 +1,4 @@
-.page-container {
+.page-container3 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -6,7 +6,7 @@
     background-color: #f0f2f5;
   }
 
-  .header {
+  .header3 {
     position: absolute;
     top: 20px;
     left: 20px;
@@ -21,7 +21,7 @@
     border:#0056b3;
     border-radius: 45px;
   }
-  .header-title {
+  .header-title3 {
     margin-left: 15px; 
     font-size: 24px; 
     color: #333;
@@ -37,7 +37,7 @@
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     background-color: #fff;
@@ -50,28 +50,9 @@
     font-size: 24px;
   }
   
-  .ant-form-item {
-    margin-bottom: 16px;
+
   
-    &.ant-form-item-label {
-      font-weight: bold;
-    }
   
-    .ant-form-item-label > label {
-      color: #333;
-    }
-  }
-  
-  .ant-input,
-  .ant-select-selector,
-  .ant-input-password {
-    border-radius: 4px;
-    box-shadow: none;
-    &:focus {
-      border-color: #40a9ff;
-      box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
-    }
-  }
   
   .ant-btn-primary {
     width: auto; 
@@ -79,7 +60,7 @@
     padding: 10px 20px;
     border-radius: 4px;
     font-size: 16px;
-    margin-left: 40px;
+   // margin-left: 20px;
     &:hover {
       background-color: #0056b3;
       border-color: #004085;
@@ -88,8 +69,4 @@
       box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
     }
   }
-  
-  .ant-input-group-addon {
-    border-radius: 4px 0 0 4px;
-  }
-  
+ 

@@ -23,7 +23,7 @@ namespace CarLoan.Server.Controllers
         private readonly LoansDbContext _context;
         private JWTSettings JWTSettings { get; }
         private UserManager<ApplicationUser> _userManager;
-        private RoleManager<IdentityRole> _roleManager; // Add RoleManager for role checking
+        private RoleManager<IdentityRole> _roleManager; 
 
         public AccountController(IAccountServices accountService, IOptions<JWTSettings> jwtSettings,
             UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager, LoansDbContext context)
@@ -66,7 +66,6 @@ namespace CarLoan.Server.Controllers
         {
             try
             {
-                // Validate input
                 if (string.IsNullOrWhiteSpace(login.UserName) || string.IsNullOrWhiteSpace(login.Password))
                 {
                     return BadRequest(new { Message = "Username and password must be provided." });
@@ -172,6 +171,7 @@ namespace CarLoan.Server.Controllers
                 return StatusCode(500, new { Message = "An error occurred while processing your request.", Error = ex.Message });
             }
         }
+        [Authorize]
         [HttpPut("~/api/User-Update")]
         public async Task<IActionResult> UpdateClientPanel([FromBody] UpdateViewModel update)
         {
@@ -235,7 +235,7 @@ namespace CarLoan.Server.Controllers
 
 
 
-
+        [Authorize(Roles="Admin")]
         [HttpGet("all")]
         public async Task<IActionResult> GetAllUsers()
         {
@@ -247,6 +247,16 @@ namespace CarLoan.Server.Controllers
             }
 
             return Ok(users);
+        }
+
+        
+        [Route("~/api/SignOut")]
+        [Authorize]
+        [HttpPost]
+        public async Task<IActionResult> SignOut()
+        {
+            await _accountService.SignOut();
+            return Ok();
         }
     }
 }

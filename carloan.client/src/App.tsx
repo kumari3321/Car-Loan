@@ -1,40 +1,3 @@
-// import React from 'react'
-// import LoanCalculatorPage from './LoanCalculatorPage'
-// import LoanConfigPage from './LoanConfigPage'
-// import { BrowserRouter, Route, Router, Routes } from 'react-router-dom'
-// import Register from './Register'
-// import LoginPage from './LoginPage'
-// import UserInfo from './UserInfo'
-// import UserPropfile from './UserPropfile'
-// import UserDetailsPage from './UserDetails'
-// import UserDetails from './UserDetails'
-
-// const App = () => {
-//   return (
-//     <>
-//     < BrowserRouter >
-//       <Routes>
-//         <Route path='/loanCalculatorPage' element={<LoanCalculatorPage/>}/>
-//         <Route path='/loanConfigPage' element={<LoanConfigPage/>}/>
-//         <Route path='/registerPage' element={<Register/>}/>
-//         <Route path='/loginPage' element={<LoginPage/>}/>
-//         <Route path='/userInfo' element={<UserInfo/>}/>
-//        {/* <Route path='/userProfile' element={<UserPropfile/>}/> */}
-//        <Route path="/userDetails" element={<UserDetails />} />
-     
-        
-//       </Routes>
-      
-//     </BrowserRouter>
-//      {/* <LoanCalculatorPage/>
-//      <LoanConfigPage/> */}
-//     </>
-//   )
-// }
-
-// export default App
-
-
 
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
@@ -44,56 +7,65 @@ import Register from './Register';
 import LoginPage from './LoginPage';
 import UserInfo from './UserInfo';
 import UserDetails from './UserDetails';
+import { Constants } from './CommonConstant';
+import NewRegister from './NewRegister';
 
-// Define types for the props in PrivateRoute
+
+
+
 interface PrivateRouteProps {
-  element: React.ElementType;  // The React component to render
-  roles: string[];             // Allowed roles (e.g., ['user', 'admin'])
+  element: React.ElementType; 
+  userRole: string;  
 }
 
-const PrivateRoute: React.FC<PrivateRouteProps> = ({ element, roles }) => {
+const PrivateRoute: React.FC<PrivateRouteProps> = ({ element, userRole }) => {
   const token = localStorage.getItem('accessToken');
-  const userRole = localStorage.getItem('roles');
+  const rolesFromStorage = localStorage.getItem('roles');
   
   if (!token) { 
     return <Navigate to="/loginPage" />;
   }
   
- 
+  if (!rolesFromStorage || !rolesFromStorage.includes(userRole)) {
+    return <Navigate to="/unauthorized" />;
+  }
+
   return React.createElement(element);
 };
 
-const App: React.FC = () => {
+const App = () => {
   return (
     <BrowserRouter>
       <Routes>
-        {/* Public Routes */}
         <Route path="/registerPage" element={<Register />} />
-        <Route path="/loginPage" element={<LoginPage />} />
+        <Route path="/" element={<LoginPage />} />
+        <Route path="/newRegister" element={<NewRegister/>}/>
         
-        {/* Private Routes */}
         <Route
-          path="/loanCalculatorPage"
-          element={<PrivateRoute element={LoanCalculatorPage} roles={['user', 'admin']} />}
-        />
+  path="/loanCalculatorPage"
+  element={<PrivateRoute element={LoanCalculatorPage}  userRole='[]' />}
+/>
+
         
         <Route
           path="/loanConfigPage"
-          element={<PrivateRoute element={LoanConfigPage} roles={['admin']} />}
+          element={<PrivateRoute element={LoanConfigPage}  userRole={Constants.roles.admin} />}
         />
+
         
         <Route
           path="/userInfo"
-          element={<PrivateRoute element={UserInfo} roles={['admin']} />}
+          element={<PrivateRoute element={UserInfo} userRole={Constants.roles.admin}/>}
         />
         
         <Route
           path="/userDetails"
-          element={<PrivateRoute element={UserDetails} roles={['user', 'admin']} />}
+          element={<PrivateRoute element={UserDetails} userRole='[]'/>}
         />
         
-        {/* Unauthorized Access Route */}
-        <Route path="/unauthorized" element={<h1>Unauthorized Access</h1>} />
+      
+        {/* <Route path="/unauthorized" element={<h1>Unauthorized Access</h1>} /> */}
+        
       </Routes>
     </BrowserRouter>
   );

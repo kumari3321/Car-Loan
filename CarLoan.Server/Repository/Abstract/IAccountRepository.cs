@@ -6,6 +6,7 @@ namespace CarLoan.Server.Repository.Abstract
     public interface IAccountRepository
     {
         Task<bool> EmailExists(string email);
+        Task SignOut();
         Task<IList<String>> GetUserRolesByUsername(string username);
         Task<UserInfo> GetUserInfoByUserName(string username);
         Task<bool> PasswordSignIn(LoginRequests login);

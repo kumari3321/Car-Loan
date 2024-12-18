@@ -1,5 +1,6 @@
 ﻿using CarLoan.Server.Models;
 using CarLoan.Server.Repository.Abstract;
+using CarLoan.Server.Repository.Concrete;
 using CarLoan.Server.Services.Abstract;
 using CarLoan.Server.ViewModel;
 using Microsoft.AspNetCore.Hosting; // Include this namespace for IWebHostEnvironment
@@ -67,12 +68,18 @@ namespace CarLoan.Server.Services.Concrete
             var Scheme = _contextAccessor.HttpContext.Request.Scheme;
             var BaseUrl = Scheme + "://" + url.Host.Value;
 
-            if (!string.IsNullOrEmpty(update.ProfilePhoto))
+            if (!string.IsNullOrEmpty(update.ProfilePhoto) )
             {
                 var imgName = update.Extension;
                 string rootFolderPath = _env.WebRootPath; 
                 update.ProfilePhoto = ImageUpload.UploadImage(BaseUrl, rootFolderPath, update.ProfilePhoto, update.Extension, "/Images/");
             }
+            else
+            {
+
+                return true;
+            }
+
             var res = await _accountRepository.UpdateClientPanel(update, UserId, Id);
             return res;
         }
@@ -96,6 +103,12 @@ namespace CarLoan.Server.Services.Concrete
         {
             var res = await _accountRepository.GetAllUsers();
             return res;
+        }
+
+        public async Task SignOut()
+        {
+            await _accountRepository.SignOut();
+
         }
     }
 }

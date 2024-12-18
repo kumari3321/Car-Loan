@@ -15,7 +15,8 @@ public class LoanConfigurationsController : ControllerBase
     {
         _loanConfigurationService = loanConfigurationService;
     }
-    [Authorize]
+    //[Authorize(Roles = "")]
+
     [HttpGet]
     [Route("GetLoanConfiguration")]
     public async Task<IActionResult> GetLoanConfiguration()
@@ -30,7 +31,7 @@ public class LoanConfigurationsController : ControllerBase
         return Ok(loanConfig);
     }
 
-    [Authorize]
+   // [Authorize(Roles = "Admin")]
     [HttpGet]
     [Route("GetLoanConfigurationById")]
     public async Task<IActionResult> GetLoanConfigurationById(int id)
@@ -45,7 +46,8 @@ public class LoanConfigurationsController : ControllerBase
         return Ok(loanConfig);
     }
 
-    [Authorize]
+    [Authorize(Roles = "Admin")]
+
     [HttpPut]
     [Route("UpdateLoanConfiguration")]
     public async Task<IActionResult> UpdateLoanConfiguration([FromBody] LoanConfigurationViewModel configuration)
