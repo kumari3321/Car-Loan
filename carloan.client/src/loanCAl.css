@@ -1,0 +1,94 @@
+.page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f0f2f5;
+}
+
+.h1 {
+  text-align: center;
+  color: #0088fe;
+  margin-bottom: 20px;
+}
+
+.header7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 20px;
+}
+.header7 .content-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  flex-direction: row;
+  gap: 20px;
+}
+.header7 .header1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  flex: 1;
+}
+.header7 .chart-container {
+  flex: 0 0 auto;
+}
+.header7 .pie-chart {
+  transition: all 0.3s ease-in-out;
+}
+
+.LoanAmount {
+  margin-bottom: 20px;
+}
+.LoanAmount .input-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.LoanAmount .input-container .input1 {
+  flex: 1;
+}
+.LoanAmount .input-container .slider {
+  flex: 2;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.submit .submit {
+  background-color: #0088fe;
+  border: none;
+}
+.submit .submit:hover {
+  background-color: #006dcb;
+}
+
+.result {
+  margin-top: 30px;
+  text-align: center;
+  align-items: center;
+}
+.result p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+.result p strong {
+  color: #82ca9d;
+}
+
+h2 {
+  color: #0088fe;
+  margin-bottom: 20px;
+}
+
+.redirect-button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}/*# sourceMappingURL=loanCAl.css.map */

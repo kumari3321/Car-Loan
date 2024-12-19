@@ -73,8 +73,8 @@ const LoanCalculatorPage = () => {
   };
 
   const chartData = [
-    { "name": 'Principal', value: 400, nameKey: 'Principle' },
-    { "name": 'Interest', value: parseFloat(data.emi) || 0, nameKey: 'Interest' }
+    { "name": 'Principal', value: parseFloat(data.principalAmount)|| 0 },
+    { "name": 'Interest', value: parseFloat(data.emi) || 0 }
   ];
 
   const handleSubmit = async () => {

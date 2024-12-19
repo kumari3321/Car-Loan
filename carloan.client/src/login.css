@@ -1,0 +1,32 @@
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f2f5;
+}
+.login-page .login-form {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+.login-page .login-form .login-form-button {
+  width: 30%;
+  margin-top: 10px;
+  margin-left: 80px;
+  display: flex;
+  justify-content: center;
+}
+.login-page .login-form .input-box {
+  margin-left: 50px;
+  width: 200%;
+}
+.login-page .login-form .linkRegister {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 80px;
+}/*# sourceMappingURL=login.css.map */
